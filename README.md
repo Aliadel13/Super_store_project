@@ -16,7 +16,7 @@ The dataset comes from the Superstore retail business, covering multiple years o
 📁 **Docs/** – The final insights & recommendations report.  
 
 ## 📄 Report  
-🔍 **[Insights & Recommendations Report](./Insights%20&%20reommendations.pdf)** – A detailed report with findings & business recommendations.  
+🔍 **[Insights & Recommendations Report](./Docs/Insights%20&%20reommendations.pdf)** – A detailed report with findings & business recommendations.  
 
 ## 🛠 Tools Used  
 - **SQL (MySQL)** – Data extraction & analysis.  

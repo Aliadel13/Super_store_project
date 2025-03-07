@@ -13,7 +13,6 @@ The dataset comes from the Superstore retail business, covering multiple years o
 ## 📂 Repository Structure  
 📁 **SQL/** – Contains all SQL queries used for analysis.  
 📁 **Excel/** – Excel sheets with cleaned data and pivot tables.  
-📁 **Visuals/** – Charts and graphs generated from the data.  
 📁 **Docs/** – The final insights & recommendations report.  
 
 ## 📄 Report  
@@ -22,11 +21,8 @@ The dataset comes from the Superstore retail business, covering multiple years o
 ## 🛠 Tools Used  
 - **SQL (MySQL)** – Data extraction & analysis.  
 - **Excel** – Data visualization & trend analysis.  
-- **Power BI (Optional)** – For interactive dashboards.  
 
-## 📌 Next Steps  
-📊 Improve visuals & add more interactive elements.  
-📈 Expand analysis to include forecasting & segmentation.  
+
 
 ---
 
